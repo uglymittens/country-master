@@ -6,7 +6,7 @@
 
 ## About Vibin ##
 
-We make cool stuff... check out our Photo Notes app! It's a great way to organize your photos and tag them at the same time!
+We at Vibin make cool stuff... check out our Photo Notes app and give us feedback on what you think! It's a great way to organize your photos and tag them at the same time!
 
 [App Store](https://itunes.apple.com/us/app/vibin-photo-notes/id749920897?mt=8), 
 [Google Play](https://play.google.com/store/apps/details?id=it.vibin.app)
