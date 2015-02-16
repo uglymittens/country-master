@@ -69,7 +69,7 @@ If you need, shoot me an email, preferably to my Gmail account.
 
 ## Keywords ##
 
-Keywords: library, country, country code, phone number, iso code, validate, validation, login, registration
+Keywords: android, library, country, country code, phone number, iso code, validate, validation, login, registration
 
 ### Open Source Licenses ###
 
