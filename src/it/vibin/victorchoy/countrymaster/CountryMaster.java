@@ -13,8 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
-package com.victorchoy.countrymaster;
+package it.vibin.victorchoy.countrymaster;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -34,6 +33,8 @@ import org.json.JSONObject;
 import com.google.i18n.phonenumbers.NumberParseException;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 import com.google.i18n.phonenumbers.Phonenumber.PhoneNumber;
+
+import it.vibin.victorchoy.countrymaster.R;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
