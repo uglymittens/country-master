@@ -6,7 +6,7 @@
 
 ## About Counter-Master ##
 
-This is an Android library project which I built for myself, since I needed to create a login and registration form using phone numbers.
+This is an Android library project which I built for myself, since I needed to create a login and registration form using phone numbers (uses Google's [libphonenumber](https://github.com/googlei18n/libphonenumber)).
 An example of how I use my library for registration screen... It contain a country picker using a Spinner, containing flags and names of each country in the list. By default,
 I set the country prefix number (e.g. "+1" for the US), according to the locale of the device (next to the country Spinner dropdown). Finally, I placed an EditText
 next to the right of the country code to capture the regional number (phone number without prefix).
@@ -69,10 +69,11 @@ If you need, shoot me an email, preferably to my Gmail account.
 
 ## Keywords ##
 
-Keywords: android, library, country, country code, phone number, iso code, validate, validation, login, registration
+Keywords: android, library, libphonenumber, country, country code, phone number, iso code, validate, validation, login, registration
 
 ### Open Source Licenses ###
 
 * [libphonenumber](https://github.com/googlei18n/libphonenumber)
  Copyright © 2009 Google
- Apache License Version 2.0, January 2004 
+ Apache License Version 2.0, January 2004
+ (Thanks guys!)
