@@ -1,6 +1,6 @@
 # Country Master #
 
-<i>Author:</i> Victor Choy <[vic.choy@gmail.com](mailto: vic.choy@gmail.com), [victor.cui@vibin.it](mailto: victor.cui@vibin.it)>
+<i>Author:</i> Victor Choy [victor.cui@vibin.it](mailto: victor.cui@vibin.it)>
 
 <i>Copyright</i> © 2015 www.vibin.it
 
@@ -65,7 +65,7 @@ We at Vibin make cool stuff... check out our Photo Notes app and give us feedbac
 * You will find a sample layout that you can use to get you going.
 * I recommend using a Spinner and SpinnerAdapter to implement your drop-down (just a suggestion!)
 
-If you need, shoot me an email, preferably to my Gmail account.
+If you need help, shoot me an email.
 
 ## Keywords ##
 
