@@ -38,6 +38,9 @@ Let's say the presses the Spinner dropdown and selects a different country:
 Let's say the user wants to submit the registration data:
 
 	public void onClick(View view) {
+		
+		PhoneNumberUtil util = PhoneNumberUtil.getInstance();
+		
 		// assuming you only a button in your layout...
 		boolean isAuthentic = false;
 		try {
