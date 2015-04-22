@@ -1,6 +1,6 @@
 # Country Master #
 
-<i>Author:</i> Victor Choy [victor.cui@vibin.it](mailto: victor.cui@vibin.it)>
+<i>Author:</i> Victor Choy [victor.cui@vibin.it](mailto: victor.cui@vibin.it)
 
 <i>Copyright</i> © 2015 www.vibin.it
 
